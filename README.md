@@ -8,20 +8,11 @@
   <img src="https://img.shields.io/badge/Scripting%20%26%20Automation-1a1a2e?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Web%20Development-1a1a2e?style=for-the-badge"/>
 </p>
-
 <p align="center">
-  <a href="https://github.com/willko22?tab=repositories&language=c%2B%2B">
-    <img src="https://img.shields.io/badge/C%2B%2B-F34B7D?logo=c%2B%2B"/>
-  </a>
-  <a href="https://github.com/willko22?tab=repositories&language=python">
-    <img src="https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=white"/>
-  </a>
-  <a href="https://github.com/willko22?tab=repositories&language=javascript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  </a>
-  <a href="https://github.com/willko22?tab=repositories&language=autohotkey">
-    <img src="https://img.shields.io/badge/AutoHotkey-6290B4"/>
-  </a>
+  <a href="https://github.com/willko22?tab=repositories&language=c%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-F34B7D?logo=c%2B%2B"/></a>
+  <a href="https://github.com/willko22?tab=repositories&language=python"><img src="https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=white"/></a>
+  <a href="https://github.com/willko22?tab=repositories&language=javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/></a>
+  <a href="https://github.com/willko22?tab=repositories&language=autohotkey"><img src="https://img.shields.io/badge/Autohotkey-6290B4?labelColor=black"/></a>
 </p>
 
 ---
@@ -30,9 +21,9 @@
 
 <table>
   <tr>
-    <th align="left">Project</th>
-    <th align="left">Description</th>
-    <th align="left">Stack</th>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Stack</th>
   </tr>
   <tr>
     <td><a href="https://github.com/willko22/git_rust"><b>git_rust</b></a></td>
@@ -53,7 +44,7 @@
     <td><a href="https://github.com/willko22/Alvea"><b>Alvea</b></a></td>
     <td>Custom wireless mechanical keyboard PCB</td>
     <td>
-      <img src="https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white"/>
+      <img src="https://img.shields.io/badge/KiCad-314CB0"/>
       <img src="https://img.shields.io/badge/ZMK-555"/>
     </td>
   </tr>
@@ -61,25 +52,18 @@
 
 ---
 
-### Selected Projects
+### Pinned Repos
 
 <p align="center">
-  <a href="https://github.com/willko22/tic_tac_toe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=willko22&repo=tic_tac_toe&bg_color=0d1117&title_color=a8dadc&text_color=778da9&icon_color=a8dadc&hide_border=true"/>
-  </a>
-  <a href="https://github.com/willko22/bd_con_sim">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=willko22&repo=bd_con_sim&bg_color=0d1117&title_color=a8dadc&text_color=778da9&icon_color=a8dadc&hide_border=true"/>
-  </a>
+  <a href="https://github.com/willko22/tic_tac_toe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willko22&repo=tic_tac_toe&bg_color=0d1117&title_color=a8dadc&text_color=778da9&icon_color=a8dadc&hide_border=true"/></a>
+  <a href="https://github.com/willko22/bd_con_sim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willko22&repo=bd_con_sim&bg_color=0d1117&title_color=a8dadc&text_color=778da9&icon_color=a8dadc&hide_border=true"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/willko22/snake_sdl2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willko22&repo=snake_sdl2&bg_color=0d1117&title_color=a8dadc&text_color=778da9&icon_color=a8dadc&hide_border=true"/></a>
+  <a href="https://github.com/willko22/keykey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willko22&repo=keykey&bg_color=0d1117&title_color=a8dadc&text_color=778da9&icon_color=a8dadc&hide_border=true"/></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/willko22/snake_sdl2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=willko22&repo=snake_sdl2&bg_color=0d1117&title_color=a8dadc&text_color=778da9&icon_color=a8dadc&hide_border=true"/>
-  </a>
-  <a href="https://github.com/willko22/keykey">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=willko22&repo=keykey&bg_color=0d1117&title_color=a8dadc&text_color=778da9&icon_color=a8dadc&hide_border=true"/>
-  </a>
-</p>
+
 
 ---
 
@@ -87,6 +71,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=willko22&show_icons=true&hide_border=true&hide_rank=true&count_private=true&bg_color=0d1117&title_color=a8dadc&text_color=778da9&icon_color=a8dadc" height="150"/>
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willko22&layout=compact&hide_border=true&exclude_repo=snake_sdl2&bg_color=0d1117&title_color=a8dadc&text_color=778da9" height="150"/>
 </p>
 
