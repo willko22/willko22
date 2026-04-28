@@ -56,11 +56,12 @@
 
 <p align="center">
   <a href="https://github.com/willko22/tic_tac_toe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willko22&repo=tic_tac_toe&bg_color=0d1117&title_color=a8dadc&text_color=778da9&icon_color=a8dadc&hide_border=true"/></a>
-  <a href="https://github.com/willko22/bd_con_sim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willko22&repo=bd_con_sim&bg_color=0d1117&title_color=a8dadc&text_color=778da9&icon_color=a8dadc&hide_border=true"/></a>
+  <a href="https://github.com/willko22/keykey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willko22&repo=keykey&bg_color=0d1117&title_color=a8dadc&text_color=778da9&icon_color=a8dadc&hide_border=true"/></a>
+
 </p>
 <p align="center">
   <a href="https://github.com/willko22/snake_sdl2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willko22&repo=snake_sdl2&bg_color=0d1117&title_color=a8dadc&text_color=778da9&icon_color=a8dadc&hide_border=true"/></a>
-  <a href="https://github.com/willko22/keykey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willko22&repo=keykey&bg_color=0d1117&title_color=a8dadc&text_color=778da9&icon_color=a8dadc&hide_border=true"/></a>
+  <a href="https://github.com/willko22/bd_con_sim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willko22&repo=bd_con_sim&bg_color=0d1117&title_color=a8dadc&text_color=778da9&icon_color=a8dadc&hide_border=true"/></a>
 </p>
 
 
