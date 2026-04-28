@@ -64,15 +64,4 @@
 </p>
 
 
-
----
-
-### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=willko22&show_icons=true&hide_border=true&hide_rank=true&count_private=true&bg_color=0d1117&title_color=a8dadc&text_color=778da9&icon_color=a8dadc" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willko22&layout=compact&hide_border=true&exclude_repo=snake_sdl2&bg_color=0d1117&title_color=a8dadc&text_color=778da9" height="150"/>
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer"/>
