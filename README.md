@@ -9,10 +9,10 @@
   <img src="https://img.shields.io/badge/Web%20Development-1a1a2e?style=for-the-badge"/>
 </p>
 <p align="center">
-  <a href="https://github.com/willko22?tab=repositories&language=c%2B%2B"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
-  <a href="https://github.com/willko22?tab=repositories&language=python"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+  <a href="https://github.com/willko22?tab=repositories&language=c%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-004283?logo=c%2B%2B&logoColor=659BD3"/></a>
+  <a href="https://github.com/willko22?tab=repositories&language=python"><img src="https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=gold"/></a>
   <a href="https://github.com/willko22?tab=repositories&language=javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
-  <a href="https://github.com/willko22?tab=repositories&language=php"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
+  <a href="https://github.com/willko22?tab=repositories&language=autohotkey"><img src="https://img.shields.io/badge/Autohotkey-438D39?logo=autohotkey&logoColor=8CF086"/></a>
 </p>
 
 ---
