@@ -10,9 +10,9 @@
 </p>
 <p align="center">
   <a href="https://github.com/willko22?tab=repositories&language=c%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-F34B7D?logo=c%2B%2B"/></a>
-  <a href="https://github.com/willko22?tab=repositories&language=python"><img src="https://img.shields.io/badge/Python-3572A5?logo=python"/></a>
+  <a href="https://github.com/willko22?tab=repositories&language=python"><img src="https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=white"/></a>
   <a href="https://github.com/willko22?tab=repositories&language=javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
-  <a href="https://github.com/willko22?tab=repositories&language=autohotkey"><img src="https://img.shields.io/badge/Autohotkey-6290B4?logo=autohotkey"/></a>
+  <a href="https://github.com/willko22?tab=repositories&language=autohotkey"><img src="https://img.shields.io/badge/Autohotkey-6290B4"/></a>
 </p>
 
 ---
