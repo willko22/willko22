@@ -28,17 +28,25 @@
   <tr>
     <td><a href="https://github.com/willko22/git_rust"><b>git_rust</b></a></td>
     <td>Reimplementing core Git functionality from scratch</td>
-    <td><img src="https://img.shields.io/badge/Rust-b7410e?style=flat-square&logo=rust&logoColor=white"/></td>
+    <td>
+      <img src="https://img.shields.io/badge/Rust-B7410E?logo=rust&logoColor=white"/>
+    </td>
   </tr>
   <tr>
     <td><a href="https://github.com/willko22/Cubomancy"><b>Cubomancy</b></a></td>
     <td>University game project</td>
-    <td><img src="https://img.shields.io/badge/Unreal%205.4-313131?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></td>
+    <td>
+      <img src="https://img.shields.io/badge/Unreal%205.4-313131?logo=unrealengine&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%2B%2B-F34B7D?logo=c%2B%2B"/>
+    </td>
   </tr>
   <tr>
     <td><a href="https://github.com/willko22/Alvea"><b>Alvea</b></a></td>
     <td>Custom wireless mechanical keyboard PCB</td>
-    <td><img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white"/> <img src="https://img.shields.io/badge/ZMK-555?style=flat-square"/></td>
+    <td>
+      <img src="https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ZMK-555"/>
+    </td>
   </tr>
 </table>
 
@@ -52,12 +60,10 @@
 </p>
 <p align="center">
   <a href="https://github.com/willko22/snake_sdl2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willko22&repo=snake_sdl2&bg_color=0d1117&title_color=a8dadc&text_color=778da9&icon_color=a8dadc&hide_border=true"/></a>
-  <a href="https://github.com/willko22/git_rust"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willko22&repo=git_rust&bg_color=0d1117&title_color=a8dadc&text_color=778da9&icon_color=a8dadc&hide_border=true"/></a>
-</p>
-<p align="center">
   <a href="https://github.com/willko22/keykey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willko22&repo=keykey&bg_color=0d1117&title_color=a8dadc&text_color=778da9&icon_color=a8dadc&hide_border=true"/></a>
-  <a href="https://github.com/willko22/Alvea"><img src="https://github-readme-stats.vercel.app/api/pin/?username=willko22&repo=Alvea&bg_color=0d1117&title_color=a8dadc&text_color=778da9&icon_color=a8dadc&hide_border=true"/></a>
 </p>
+
+
 
 ---
 
