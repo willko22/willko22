@@ -1,6 +1,6 @@
 # willko22
 
-Computer Science student. I work on embedded systems, PCB design, and software projects.
+Computer Science student. Primarily interested in software — systems programming, tooling, and game development.
 
 ---
 
@@ -8,27 +8,27 @@ Computer Science student. I work on embedded systems, PCB design, and software p
 
 | Project | Description | Stack |
 |---|---|---|
-| Wireless Mechanical Keyboard | Custom PCB with nRF52840 and ZMK firmware | KiCad, C, ZMK |
 | Git in Rust | Reimplementing core Git functionality from scratch | Rust |
-| Game — School Project | University game development project | TBD |
+| Game — School Project | University game project | Unreal Engine 5.4, C++ |
+| Wireless Mechanical Keyboard | Custom PCB side project | KiCad, C, ZMK |
 
 ---
 
 ### Interests
 
-- Embedded systems and low-power circuit design
-- PCB design (KiCad) — power management, BLE peripherals
-- Systems programming
+- Systems programming and low-level software
+- Compilers, tooling, and developer tools
+- Game development
 
 ---
 
 ### Tools & Languages
 
-![Java](https://img.shields.io/badge/Java-555?style=flat&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-555?style=flat&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-555?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-555?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-555?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-555?style=flat&logo=python&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-555?style=flat&logo=kicad&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-555?style=flat&logo=git&logoColor=white)
 
 ---
